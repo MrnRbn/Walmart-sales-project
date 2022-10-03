@@ -2,6 +2,8 @@
 
 Goal 🎯 : Predict Walmart weekly sales
 
+Recording 🎥: https://share.vidyard.com/watch/3LNXPr8NtUpP2F9uRtPTpp?
+
 Keywords :key::
 - Exploratory Data Analysis
 - Missing data imputation
